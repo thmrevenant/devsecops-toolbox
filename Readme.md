@@ -4,30 +4,30 @@ A collection of cybersecurity tools and resources that I've used or found valuab
 		
 # Frameworks & Threat Intelligence		
 <table>
-<tr><th>Tool</th><th>Website</th><th>Description</th><tr>
-<tr><th>Abuse</th><th>https://abuse.ch/</th><th>A platform focused on threat intelligence.</th><tr>
-<tr><th>DomainTools</th><th>https://whois.domaintools.com/</th><th>Provides DNS and IP information on a domain.</th><tr>
-<tr><th>Talos Intelligence</th><th>https://talosintelligence.com/</th><th>A platform focused on threat intelligence provided by Cisco.</th><tr>
-<tr><th>Censys</th><th>https://search.censys.io/</th><th>A search engine for discovering devices and services exposed on the internet, offering insights into vulnerabilities.</th><tr>
-<tr><th>Shodan</th><th>https://www.shodan.io/</th><th>A search engine that scans and indexes devices connected to the internet, used for identifying network vulnerabilities.</th><tr>
-<tr><th>Mitre Attack</th><th>https://attack.mitre.org/</th><th>A comprehensive framework of adversarial tactics and techniques used by cyber attackers.</th><tr>
-<tr><th>Mitre AEP</th><th>https://attack.mitre.org/resources/adversary-emulation-plans/</th><th>Provides adversary emulation plans that simulate cyber threat actors to test and improve security defenses.</th><tr>
-<tr><th>Mitre CAR</th><th>https://car.mitre.org/</th><th>Cyber Analytics Repository that offers security analytics to help detect adversary behaviors on networks.</th><tr>
-<tr><th>Mitre D3fend</th><th>https://d3fend.mitre.org/</th><th>A knowledge base of cybersecurity countermeasures designed to help organizations protect against attacks.</th><tr>
-<tr><th>Mitre Engage</th><th>https://engage.mitre.org/</th><th>A framework designed to guide organizations in planning and executing cyber deception and engagement operations.</th><tr>
-<tr><th>LOKI</th><th>https://github.com/Neo23x0/Loki</th><th>A simple scanner that checks for indicators of compromise (IoCs) using YARA rules and other heuristics.</th><tr>
-<tr><th>THOR (Lite)</th><th>https://www.nextron-systems.com/thor-lite/</th><th>A professional-grade forensic scanner that detects advanced threats and malicious activity.</th><tr>
-<tr><th>Yara</th><th>https://virustotal.github.io/yara/</th><th>A tool aimed at helping malware researchers identify and classify malware by writing flexible detection rules.</th><tr>
-<tr><th>FENRIR</th><th>https://github.com/Neo23x0/Fenrir</th><th>A simple IOC scanner for Unix-based systems designed to be easily integrated into security incident response processes.</th><tr>
-<tr><th>yarGen</th><th>https://github.com/Neo23x0/yarGen</th><th>A tool for generating YARA rules by extracting relevant strings from malware samples.</th><tr>
-<tr><th>valhalla</th><th>https://valhalla.nextron-systems.com/</th><th>A service offering a massive collection of curated YARA rules for detecting malware and threats.</th><tr>
-<tr><th>YARAify</th><th>https://yaraify.abuse.ch/</th><th>Provides a feed of YARA rules and allows scanning of files against YARA rules.</th><tr>
-<tr><th>OpenCTI</th><th>https://www.opencti.io/</th><th>An open-source platform designed to manage, store, and share cyber threat intelligence information.</th><tr>
-<tr><th>MISP</th><th>https://www.misp-project.org/</th><th>An open-source threat intelligence platform for sharing, storing, and correlating indicators of compromise.</th><tr>
-<tr><th>IPinfo.io</th><th>https://ipinfo.io/</th><th>Provides geolocation, ownership details, and privacy detection for IP addresses.</th><tr>
-<tr><th>URLScan.io</th><th>https://urlscan.io/</th><th>A web sandbox that scans and analyzes URLs for threats, generating detailed reports.</th><tr>
-<tr><th>DomainTools Whois</th><th>https://whois.domaintools.com/</th><th>Retrieves domain registration details, including ownership, creation date, and DNS information.</th><tr>
-<tr><th>VirusTotal</th><th>https://www.virustotal.com/gui/</th><th>Analyzes suspicious files and URLs to detect malware and shares findings with the security community.</th><tr>
+<tr><th align="left">Tool</th><th align="left">Website</th><th align="left">Description</th><tr>
+<tr><td align="left">Abuse</td><td align="left">https://abuse.ch/</td><td align="left">A platform focused on threat intelligence.</td><tr>
+<tr><td align="left">DomainTools</td><td align="left">https://whois.domaintools.com/</td><td align="left">Provides DNS and IP information on a domain.</td><tr>
+<tr><td align="left">Talos Intelligence</td><td align="left">https://talosintelligence.com/</td><td align="left">A platform focused on threat intelligence provided by Cisco.</td><tr>
+<tr><td align="left">Censys</td><td align="left">https://search.censys.io/</td><td align="left">A search engine for discovering devices and services exposed on the internet, offering insights into vulnerabilities.</td><tr>
+<tr><td align="left">Shodan</td><td align="left">https://www.shodan.io/</td><td align="left">A search engine that scans and indexes devices connected to the internet, used for identifying network vulnerabilities.</td><tr>
+<tr><td align="left">Mitre Attack</td><td align="left">https://attack.mitre.org/</td><td align="left">A comprehensive framework of adversarial tactics and techniques used by cyber attackers.</td><tr>
+<tr><td align="left">Mitre AEP</td><td align="left">https://attack.mitre.org/resources/adversary-emulation-plans/</td><td align="left">Provides adversary emulation plans that simulate cyber threat actors to test and improve security defenses.</td><tr>
+<tr><td align="left">Mitre CAR</td><td align="left">https://car.mitre.org/</td><td align="left">Cyber Analytics Repository that offers security analytics to help detect adversary behaviors on networks.</td><tr>
+<tr><td align="left">Mitre D3fend</td><td align="left">https://d3fend.mitre.org/</td><td align="left">A knowledge base of cybersecurity countermeasures designed to help organizations protect against attacks.</td><tr>
+<tr><td align="left">Mitre Engage</td><td align="left">https://engage.mitre.org/</td><td align="left">A framework designed to guide organizations in planning and executing cyber deception and engagement operations.</td><tr>
+<tr><td align="left">LOKI</td><td align="left">https://github.com/Neo23x0/Loki</td><td align="left">A simple scanner that checks for indicators of compromise (IoCs) using YARA rules and other heuristics.</td><tr>
+<tr><td align="left">THOR (Lite)</td><td align="left">https://www.nextron-systems.com/thor-lite/</td><td align="left">A professional-grade forensic scanner that detects advanced threats and malicious activity.</td><tr>
+<tr><td align="left">Yara</td><td align="left">https://virustotal.github.io/yara/</td><td align="left">A tool aimed at helping malware researchers identify and classify malware by writing flexible detection rules.</td><tr>
+<tr><td align="left">FENRIR</td><td align="left">https://github.com/Neo23x0/Fenrir</td><td align="left">A simple IOC scanner for Unix-based systems designed to be easily integrated into security incident response processes.</td><tr>
+<tr><td align="left">yarGen</td><td align="left">https://github.com/Neo23x0/yarGen</td><td align="left">A tool for generating YARA rules by extracting relevant strings from malware samples.</td><tr>
+<tr><td align="left">valhalla</td><td align="left">https://valhalla.nextron-systems.com/</td><td align="left">A service offering a massive collection of curated YARA rules for detecting malware and threats.</td><tr>
+<tr><td align="left">YARAify</td><td align="left">https://yaraify.abuse.ch/</td><td align="left">Provides a feed of YARA rules and allows scanning of files against YARA rules.</td><tr>
+<tr><td align="left">OpenCTI</td><td align="left">https://www.opencti.io/</td><td align="left">An open-source platform designed to manage, store, and share cyber threat intelligence information.</td><tr>
+<tr><td align="left">MISP</td><td align="left">https://www.misp-project.org/</td><td align="left">An open-source threat intelligence platform for sharing, storing, and correlating indicators of compromise.</td><tr>
+<tr><td align="left">IPinfo.io</td><td align="left">https://ipinfo.io/</td><td align="left">Provides geolocation, ownership details, and privacy detection for IP addresses.</td><tr>
+<tr><td align="left">URLScan.io</td><td align="left">https://urlscan.io/</td><td align="left">A web sandbox that scans and analyzes URLs for threats, generating detailed reports.</td><tr>
+<tr><td align="left">DomainTools Whois</td><td align="left">https://whois.domaintools.com/</td><td align="left">Retrieves domain registration details, including ownership, creation date, and DNS information.</td><tr>
+<tr><td align="left">VirusTotal</td><td align="left">https://www.virustotal.com/gui/</td><td align="left">Analyzes suspicious files and URLs to detect malware and shares findings with the security community.</td><tr>
 </table>	
 	
 Network Security		
