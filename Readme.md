@@ -1,6 +1,6 @@
 # DevSecOps Toolbox
 
-A collection of cybersecurity tools and resources that I've used or found valuable during my cyber security analyst training. Entries in italic are added / changed.		
+A collection of devsecops tools and resources.		
 		
 # Frameworks & Threat Intelligence		
 <table>
