@@ -4,7 +4,7 @@ A collection of cybersecurity tools and resources that I've used or found valuab
 		
 # Frameworks & Threat Intelligence		
 <table>
-<tr><th>Tool</th><th>Website</th>Description</th><tr>
+<tr><th>Tool</th><th>Website</th><th>Description</th><tr>
 <tr><th>Abuse</th><th>https://abuse.ch/</th><th>A platform focused on threat intelligence.</th><tr>
 <tr><th>DomainTools</th><th>https://whois.domaintools.com/</th><th>Provides DNS and IP information on a domain.</th><tr>
 <tr><th>Talos Intelligence</th><th>https://talosintelligence.com/</th><th>A platform focused on threat intelligence provided by Cisco.</th><tr>
