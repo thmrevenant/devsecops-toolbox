@@ -34,79 +34,79 @@ A collection of cybersecurity tools and resources that I've used or found valuab
 
 <table>		
 <tr><th align="left">Tool</th><th align="left">Website</th><th align="left">Description</th><tr>
-Zenmap</td><td align="left">https://nmap.org/zenmap/</td><td align="left">The official graphical user interface (GUI) for Nmap.</td><tr>
-Snort</td><td align="left">https://www.snort.org/</td><td align="left">An open-source intrusion detection and prevention system (IDS/IPS).</td><tr>
-NetworkMiner</td><td align="left">https://www.netresec.com/?page=NetworkMiner</td><td align="left">A network forensic analysis tool (NFAT) for extracting and analyzing data from network traffic.</td><tr>
-Wireshark</td><td align="left">https://www.wireshark.org/</td><td align="left">A network protocol analyzer used for network troubleshooting, analysis, and protocol development.</td><tr>
-TShark</td><td align="left">https://tshark.dev/</td><td align="left">The command-line version of Wireshark, offering similar functionalities for capturing and analyzing network traffic via CLI.</td><tr>
-Brim</td><td align="left">https://www.brimdata.io</td><td align="left">The graphical user interface (GUI) for Zeek.</td><tr>
+<tr><td align="left">Zenmap</td><td align="left">https://nmap.org/zenmap/</td><td align="left">The official graphical user interface (GUI) for Nmap.</td><tr>
+<tr><td align="left">Snort</td><td align="left">https://www.snort.org/</td><td align="left">An open-source intrusion detection and prevention system (IDS/IPS).</td><tr>
+<tr><td align="left">NetworkMiner</td><td align="left">https://www.netresec.com/?page=NetworkMiner</td><td align="left">A network forensic analysis tool (NFAT) for extracting and analyzing data from network traffic.</td><tr>
+<tr><td align="left">Wireshark</td><td align="left">https://www.wireshark.org/</td><td align="left">A network protocol analyzer used for network troubleshooting, analysis, and protocol development.</td><tr>
+<tr><td align="left">TShark</td><td align="left">https://tshark.dev/</td><td align="left">The command-line version of Wireshark, offering similar functionalities for capturing and analyzing network traffic via CLI.</td><tr>
+<tr><td align="left">Brim</td><td align="left">https://www.brimdata.io</td><td align="left">The graphical user interface (GUI) for Zeek.</td><tr>
 </table>		
 		
 # Endpoint Security & SIEM		
 
 <table>		
 <tr><th align="left">Tool</th><th align="left">Website</th><th align="left">Description</th><tr>
-TCPView</td><td align="left">https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview</td><td align="left">Displays active TCP and UDP connections, including process ownership and connection states.</td><tr>
-Process Explorer</td><td align="left">https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer</td><td align="left">Provides detailed information about running processes.</td><tr>
-Wevtutil.exe</td><td align="left">https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wevtutil</td><td align="left">Command-line tool for managing Windows Event Logs, including querying, exporting, and clearing logs.</td><tr>
-Sysmon</td><td align="left">https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon</td><td align="left">Monitors and logs detailed system activity to Windows Event Logs for security analysis.</td><tr>
-Osquery</td><td align="left">https://www.osquery.io</td><td align="left">Uses SQL-like queries to collect and analyze operating system data for monitoring, compliance, and security.</td><tr>
-Wazuh</td><td align="left">https://wazuh.com/</td><td align="left">A free SIEM platform for threat detection, compliance, and IT security monitoring.</td><tr>
-Process Hacker</td><td align="left">https://processhacker.sourceforge.io/</td><td align="left">Open-source tool for monitoring processes, detecting malicious activity, and troubleshooting.</td><tr>
-Autoruns</td><td align="left">https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns</td><td align="left">Shows programs configured to run at system startup or login in detail.</td><tr>
-Procdump</td><td align="left">https://learn.microsoft.com/en-us/sysinternals/downloads/procdump</td><td align="left">Captures process dumps during CPU spikes or application crashes for debugging purposes.</td><tr>
-Splunk</td><td align="left">https://www.splunk.com/</td><td align="left">A platform for collecting, indexing, and analyzing machine-generated data in real-time.</td><tr>
+<tr><td align="left">TCPView</td><td align="left">https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview</td><td align="left">Displays active TCP and UDP connections, including process ownership and connection states.</td><tr>
+<tr><td align="left">Process Explorer</td><td align="left">https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer</td><td align="left">Provides detailed information about running processes.</td><tr>
+<tr><td align="left">Wevtutil.exe</td><td align="left">https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wevtutil</td><td align="left">Command-line tool for managing Windows Event Logs, including querying, exporting, and clearing logs.</td><tr>
+<tr><td align="left">Sysmon</td><td align="left">https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon</td><td align="left">Monitors and logs detailed system activity to Windows Event Logs for security analysis.</td><tr>
+<tr><td align="left">Osquery</td><td align="left">https://www.osquery.io</td><td align="left">Uses SQL-like queries to collect and analyze operating system data for monitoring, compliance, and security.</td><tr>
+<tr><td align="left">Wazuh</td><td align="left">https://wazuh.com/</td><td align="left">A free SIEM platform for threat detection, compliance, and IT security monitoring.</td><tr>
+<tr><td align="left">Process Hacker</td><td align="left">https://processhacker.sourceforge.io/</td><td align="left">Open-source tool for monitoring processes, detecting malicious activity, and troubleshooting.</td><tr>
+<tr><td align="left">Autoruns</td><td align="left">https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns</td><td align="left">Shows programs configured to run at system startup or login in detail.</td><tr>
+<tr><td align="left">Procdump</td><td align="left">https://learn.microsoft.com/en-us/sysinternals/downloads/procdump</td><td align="left">Captures process dumps during CPU spikes or application crashes for debugging purposes.</td><tr>
+<tr><td align="left">Splunk</td><td align="left">https://www.splunk.com/</td><td align="left">A platform for collecting, indexing, and analyzing machine-generated data in real-time.</td><tr>
 </table>
 
 # DFIR		
 
 <table>		
 <tr><th align="left">Tool</th><th align="left">Website</th><th align="left">Description</th><tr>
-FTK Imager</td><td align="left">https://www.exterro.com/digital-forensics-software/ftk-imager</td><td align="left">A forensic imaging tool used to preview, image, and analyze digital evidence.</td><tr>
-RegRipper</td><td align="left">https://github.com/keydet89/RegRipper3.0</td><td align="left">Extracts and analyzes Windows registry data using plugins for incident response and forensics.</td><tr>
-Zimmerman's Registry Explorer</td><td align="left">https://ericzimmerman.github.io/</td><td align="left">Parses and analyzes Windows registry hives for forensic artifacts.</td><tr>
-ShellBagExplorer</td><td align="left">https://ericzimmerman.github.io/</td><td align="left">Analyzes ShellBag registry data to track folder access and browsing history.</td><tr>
-Registry Viewer</td><td align="left">https://ericzimmerman.github.io/</td><td align="left">Examines Windows registry files for forensic analysis of keys, values, and settings.</td><tr>
-Autopsy</td><td align="left">https://www.autopsy.com</td><td align="left">Open-source digital forensics platform for investigating and analyzing hard drives and files.</td><tr>
-Redline</td><td align="left">https://fireeye.market/apps/211364</td><td align="left">Provides host investigative capabilities to detect malicious activity through memory and file analysis.</td><tr>
-KAPE</td><td align="left">https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape</td><td align="left">Collects and processes forensic artifacts efficiently during investigations.</td><tr>
-Volatility</td><td align="left">https://github.com/volatilityfoundation/volatility</td><td align="left">An open-source memory forensics framework for analyzing RAM dumps.</td><tr>
-Velociraptor</td><td align="left">https://docs.velociraptor.app/</td><td align="left">Endpoint monitoring and digital forensics tool.</td><tr>
-The Hive</td><td align="left">https://github.com/TheHive-Project/TheHive</td><td align="left">An open-source incident response platform for managing security events collaboratively.</td><tr>
-PE Tree</td><td align="left">https://github.com/blackberry/pe_tree</td><td align="left">Visualizes Portable Executable (PE) files to aid malware analysis.</td><tr>
-Olevba</td><td align="left">https://github.com/decalage2/oletools/wiki/olevba</td><td align="left">Analyzes Microsoft Office documents to detect and extract malicious VBA macros and indicators of compromise.</td><tr>
+<tr><td align="left">FTK Imager</td><td align="left">https://www.exterro.com/digital-forensics-software/ftk-imager</td><td align="left">A forensic imaging tool used to preview, image, and analyze digital evidence.</td><tr>
+<tr><td align="left">RegRipper</td><td align="left">https://github.com/keydet89/RegRipper3.0</td><td align="left">Extracts and analyzes Windows registry data using plugins for incident response and forensics.</td><tr>
+<tr><td align="left">Zimmerman's Registry Explorer</td><td align="left">https://ericzimmerman.github.io/</td><td align="left">Parses and analyzes Windows registry hives for forensic artifacts.</td><tr>
+<tr><td align="left">ShellBagExplorer</td><td align="left">https://ericzimmerman.github.io/</td><td align="left">Analyzes ShellBag registry data to track folder access and browsing history.</td><tr>
+<tr><td align="left">Registry Viewer</td><td align="left">https://ericzimmerman.github.io/</td><td align="left">Examines Windows registry files for forensic analysis of keys, values, and settings.</td><tr>
+<tr><td align="left">Autopsy</td><td align="left">https://www.autopsy.com</td><td align="left">Open-source digital forensics platform for investigating and analyzing hard drives and files.</td><tr>
+<tr><td align="left">Redline</td><td align="left">https://fireeye.market/apps/211364</td><td align="left">Provides host investigative capabilities to detect malicious activity through memory and file analysis.</td><tr>
+<tr><td align="left">KAPE</td><td align="left">https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape</td><td align="left">Collects and processes forensic artifacts efficiently during investigations.</td><tr>
+<tr><td align="left">Volatility</td><td align="left">https://github.com/volatilityfoundation/volatility</td><td align="left">An open-source memory forensics framework for analyzing RAM dumps.</td><tr>
+<tr><td align="left">Velociraptor</td><td align="left">https://docs.velociraptor.app/</td><td align="left">Endpoint monitoring and digital forensics tool.</td><tr>
+<tr><td align="left">The Hive</td><td align="left">https://github.com/TheHive-Project/TheHive</td><td align="left">An open-source incident response platform for managing security events collaboratively.</td><tr>
+<tr><td align="left">PE Tree</td><td align="left">https://github.com/blackberry/pe_tree</td><td align="left">Visualizes Portable Executable (PE) files to aid malware analysis.</td><tr>
+<tr><td align="left">Olevba</td><td align="left">https://github.com/decalage2/oletools/wiki/olevba</td><td align="left">Analyzes Microsoft Office documents to detect and extract malicious VBA macros and indicators of compromise.</td><tr>
 </table>
 
 # Sandboxes		
 
 <table>		
 <tr><th align="left">Tool</th><th align="left">Website</th><th align="left">Description</th><tr>
-Cuckoo Sandbox</td><td align="left">https://cuckoosandbox.org/</td><td align="left">Open-source automated malware analysis system for dynamic analysis of suspicious files and URLs.</td><tr>
-CAPE Sandbox</td><td align="left">https://capev2.readthedocs.io/en/latest/index.html</td><td align="left">Malware analysis sandbox focused on unpacking and analyzing malicious payloads and executables.</td><tr>
-Any.run</td><td align="left">https://any.run/</td><td align="left">Interactive online malware sandbox allowing real-time analysis of suspicious files and activities.</td><tr>
-Hybrid Analysis</td><td align="left">https://www.hybrid-analysis.com/</td><td align="left">Free malware analysis service powered by Falcon Sandbox for static and dynamic threat analysis.</td><tr>
+<tr><td align="left">Cuckoo Sandbox</td><td align="left">https://cuckoosandbox.org/</td><td align="left">Open-source automated malware analysis system for dynamic analysis of suspicious files and URLs.</td><tr>
+<tr><td align="left">CAPE Sandbox</td><td align="left">https://capev2.readthedocs.io/en/latest/index.html</td><td align="left">Malware analysis sandbox focused on unpacking and analyzing malicious payloads and executables.</td><tr>
+<tr><td align="left">Any.run</td><td align="left">https://any.run/</td><td align="left">Interactive online malware sandbox allowing real-time analysis of suspicious files and activities.</td><tr>
+<tr><td align="left">Hybrid Analysis</td><td align="left">https://www.hybrid-analysis.com/</td><td align="left">Free malware analysis service powered by Falcon Sandbox for static and dynamic threat analysis.</td><tr>
 </table>		
 		
 # Phishing & Mails		
 
 <table>		
 <tr><th align="left">Tool</th><th align="left">Website</th><th align="left">Description</th><tr>
-Phish Tool</td><td align="left">https://phishtool.com/</td><td align="left">A platform designed for detecting, analyzing, and managing phishing threats.</td><tr>
-Message Header Analyzer</td><td align="left">https://mha.azurewebsites.net/</td><td align="left">Parses and analyzes email headers to trace the path of messages and identify potential issues.</td><tr>
-Mail Header Analyzer</td><td align="left">https://mailheader.org/</td><td align="left">Makes email headers legible by parsing records for detailed analysis of message routing.</td><tr>
-MXToolbox</td><td align="left">https://mxtoolbox.com/</td><td align="left">Provides tools to analyze DNS, MX records, and email server configurations for troubleshooting.</td><tr>
-PhishTank</td><td align="left">https://phishtank.com/</td><td align="left">Community-driven platform to track, verify, and share information about phishing websites.</td><tr>
-Spamhaus</td><td align="left">https://www.spamhaus.org/</td><td align="left">Offers IP and domain reputation services to detect and block spam, malware, and other threats.</td><tr>
-Google Messageheader</td><td align="left">https://toolbox.googleapps.com/apps/messageheader/</td><td align="left">Analyzes email headers to identify delivery delays, their sources, and responsible parties.</td><tr>
-Phishing IR Playbook</td><td align="left">https://github.com/counteractive/incident-response-plan-template/blob/master/playbooks/playbook-phishing.md</td><td align="left">A comprehensive playbook for investigating, remediating, and communicating during phishing incidents.</td><tr>
+<tr><td align="left">Phish Tool</td><td align="left">https://phishtool.com/</td><td align="left">A platform designed for detecting, analyzing, and managing phishing threats.</td><tr>
+<tr><td align="left">Message Header Analyzer</td><td align="left">https://mha.azurewebsites.net/</td><td align="left">Parses and analyzes email headers to trace the path of messages and identify potential issues.</td><tr>
+<tr><td align="left">Mail Header Analyzer</td><td align="left">https://mailheader.org/</td><td align="left">Makes email headers legible by parsing records for detailed analysis of message routing.</td><tr>
+<tr><td align="left">MXToolbox</td><td align="left">https://mxtoolbox.com/</td><td align="left">Provides tools to analyze DNS, MX records, and email server configurations for troubleshooting.</td><tr>
+<tr><td align="left">PhishTank</td><td align="left">https://phishtank.com/</td><td align="left">Community-driven platform to track, verify, and share information about phishing websites.</td><tr>
+<tr><td align="left">Spamhaus</td><td align="left">https://www.spamhaus.org/</td><td align="left">Offers IP and domain reputation services to detect and block spam, malware, and other threats.</td><tr>
+<tr><td align="left">Google Messageheader</td><td align="left">https://toolbox.googleapps.com/apps/messageheader/</td><td align="left">Analyzes email headers to identify delivery delays, their sources, and responsible parties.</td><tr>
+<tr><td align="left">Phishing IR Playbook</td><td align="left">https://github.com/counteractive/incident-response-plan-template/blob/master/playbooks/playbook-phishing.md</td><td align="left">A comprehensive playbook for investigating, remediating, and communicating during phishing incidents.</td><tr>
 </table>
 
 # Miscellaneous		
 		
 <table>		
 <tr><th align="left">Tool</th><th align="left">Website</th><th align="left">Description</th><tr>
-URL2PNG</td><td align="left">https://www.url2png.com/</td><td align="left">Captures snapshots of websites through an intuitive API for integration into apps or workflows.</td><tr>
-Wannabrowser</td><td align="left">https://www.wannabrowser.net/</td><td align="left">Allows viewing HTML source code of websites using different user-agent perspectives to detect cloaking.</td><tr>
-CVE Crowd</td><td align="left">https://cvecrowd.com/</td><td align="left">A platform for discussing and sharing information about CVEs and vulnerabilities.</td><tr>
-Fedisec Feeds</td><td align="left">https://fedisecfeeds.github.io/</td><td align="left">Aggregates security-related data, including CVE updates, in JSON format for easy access.</td><tr>
+<tr><td align="left">URL2PNG</td><td align="left">https://www.url2png.com/</td><td align="left">Captures snapshots of websites through an intuitive API for integration into apps or workflows.</td><tr>
+<tr><td align="left">Wannabrowser</td><td align="left">https://www.wannabrowser.net/</td><td align="left">Allows viewing HTML source code of websites using different user-agent perspectives to detect cloaking.</td><tr>
+<tr><td align="left">CVE Crowd</td><td align="left">https://cvecrowd.com/</td><td align="left">A platform for discussing and sharing information about CVEs and vulnerabilities.</td><tr>
+<tr><td align="left">Fedisec Feeds</td><td align="left">https://fedisecfeeds.github.io/</td><td align="left">Aggregates security-related data, including CVE updates, in JSON format for easy access.</td><tr>
 </table>
