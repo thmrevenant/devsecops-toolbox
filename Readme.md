@@ -110,3 +110,11 @@ A collection of devsecops tools and resources.
 <tr><td align="left">CVE Crowd</td><td align="left">https://cvecrowd.com/</td><td align="left">A platform for discussing and sharing information about CVEs and vulnerabilities.</td><tr>
 <tr><td align="left">Fedisec Feeds</td><td align="left">https://fedisecfeeds.github.io/</td><td align="left">Aggregates security-related data, including CVE updates, in JSON format for easy access.</td><tr>
 </table>
+
+# Red Teaming
+
+<table>
+<tr><th align="left">Tool</th><th align="left">Website</th><th align="left">Description</th><tr>
+<tr><td align="left">GTFOBins</td><td align="left">https://gtfobins.github.io/</td><td align="left">GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.</td><tr>
+</table>
+	
